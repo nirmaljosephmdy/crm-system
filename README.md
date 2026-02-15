@@ -10,7 +10,6 @@ The main goal is to create a flexible contact creation service where contacts ca
 - Lead
 - Future sources (extensible design)
 
-The system is designed following SOLID principles and clean architecture practices.
 
 ---
 
